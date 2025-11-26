@@ -1,0 +1,9 @@
+Linux:
+
+nuitka --standalone --follow-imports "adccoreutil.py"
+
+------------------------------------
+
+Windows:
+
+nuitka --standalone --follow-imports --windows-console-mode=force "adccoreutil.py"

@@ -1,0 +1,1 @@
+to open the rtf file remove the '#' from the extension, i did this so GitHub doesnt show that rtf is the main language of the source code.

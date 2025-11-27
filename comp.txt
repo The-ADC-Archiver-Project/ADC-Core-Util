@@ -1,9 +1,9 @@
 Linux:
 
-nuitka --standalone --follow-imports "adccoreutil.py"
+nuitka --standalone --follow-imports "src/adccoreutil.py"
 
 ------------------------------------
 
 Windows:
 
-nuitka --standalone --follow-imports --windows-console-mode=force "adccoreutil.py"
+nuitka --standalone --follow-imports  --windows-icon-from-ico=ADCIcon.ico --windows-console-mode=force "src/adccoreutil.py"

@@ -8,4 +8,11 @@ This repository is for OEM manufactures and people who want to open `.adc` archi
 
 After installing double click an ADC archive and it will extract in the same directory, when password protected archives are double clicked the terminal will open and ask for the corresponding password.
 
+## Downloads
+
+|-------|-------|
+| Windows 64bit | Linux 64bit|
+
+
+
 &copy; Mealman1551 - The ADC Archiver Project
